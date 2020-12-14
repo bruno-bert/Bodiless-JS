@@ -1,0 +1,26 @@
+{
+  "extends": "../../tsconfig.settings.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": ".",
+    //"baseUrl": ".",
+    "allowJs": false
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "lib",
+    "node_modules",
+    "__tests__/**/*.*",
+    "src/**/__tests__/**/*.*"
+   ],
+   "references": [
+    {"path": "../fclasses"},
+    {"path": "../bodiless-core"},
+    {"path": "../bodiless-core-ui"},
+    {"path": "../bodiless-layouts"},
+    {"path": "../bodiless-organisms"},
+    {"path": "../bodiless-ui"}
+  ]
+}

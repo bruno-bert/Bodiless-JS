@@ -1,0 +1,20 @@
+{
+  "extends": "../../tsconfig.settings.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+   // "baseUrl": ".",
+    "composite": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "lib",
+    "node_modules",
+    "__tests__/**/*.*",
+    "src/**/__tests__/**/*.*"
+  ],
+  "references": [{"path": "../bodiless-core"},{"path": "../bodiless-components"},{"path": "../fclasses"}]
+ 
+}

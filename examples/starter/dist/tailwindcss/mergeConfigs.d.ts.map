@@ -1,0 +1,1 @@
+{"version":3,"file":"mergeConfigs.d.ts","sourceRoot":"","sources":["../../src/dist/tailwindcss/mergeConfigs.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;GAYG;AAIH,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAE5D,QAAA,MAAM,YAAY,eACJ,eAAe,kBACX,KAAK,CAAC,eAAe,CAAC;;;;;CAkBtC,CAAC;AAGH,QAAA,MAAM,wBAAwB,WAAY,eAAe;;;;;CAA0C,CAAC;AAEpG,OAAO,EACL,YAAY,EACZ,wBAAwB,GACzB,CAAC"}

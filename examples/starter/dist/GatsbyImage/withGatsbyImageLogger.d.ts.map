@@ -1,0 +1,1 @@
+{"version":3,"file":"withGatsbyImageLogger.d.ts","sourceRoot":"","sources":["../../src/dist/GatsbyImage/withGatsbyImageLogger.tsx"],"names":[],"mappings":"AAAA;;;;;;;;;;;;GAYG;AAEH,OAAc,EAAE,aAAa,IAAI,EAAE,EAAE,MAAM,OAAO,CAAC;AAGnD,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,iBAAiB,CAAC;AAEvD,QAAA,MAAM,qBAAqB,WAAY,MAAM,iBAAiB,EAAE,CAAC,eAAe,CAAC,aACzC,eAAe,gBAatD,CAAC;AAEF,eAAe,qBAAqB,CAAC"}

@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.settings.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    //"baseUrl": "."
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "lib",
+    "node_modules",
+    "__tests__/**/*.*",
+    "src/**/__tests__/**/*.*"
+  ],
+  "references": [{"path": "../bodiless-layouts"},{"path": "../bodiless-ui"},{"path": "../fclasses"}]
+}

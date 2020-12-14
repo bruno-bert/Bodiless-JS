@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.settings.json",
+  "compilerOptions": {
+    "declaration": false,
+    "declarationMap": false,
+    "composite": false,
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "paths": {
+      "react": [
+        "./node_modules/@types/react/index"
+      ]
+    }
+  }
+}
